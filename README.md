@@ -3,7 +3,7 @@
 Jeu de survie et de colonie en 2D vue du dessus, style voxel, inspiré de RimWorld.
 Il tient dans un seul fichier HTML et se joue directement dans le navigateur.
 
-**Jouer :** https://fui-dev86.github.io/rimborn/
+**Jouer :** [https://fui-dev86.github.io/rimborn/](https://fui-dev86.github.io/rimborn/)
 
 ## Fonctionnalités
 - Naissance : origine, lieu de départ, nom, teint, race (humain, orc, bête, elfe), bonus et malus au choix
